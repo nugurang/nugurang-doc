@@ -17,7 +17,7 @@ Frontend framework
 * [Next.js](https://nextjs.org/)
 
 Backend framework
-* Java 11
+* Java 14
 * [Spring Boot](https://spring.io/projects/spring-boot)
 
 
