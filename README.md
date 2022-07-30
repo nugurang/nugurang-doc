@@ -42,6 +42,7 @@ spring.profiles.include=kakao
 spring.security.oauth2.client.registration.kakao.client-id=[[enter_here]]
 spring.security.oauth2.client.registration.kakao.client-secret=[[enter_here]]
 spring.security.oauth2.client.registration.kakao.scope=profile,email
+nugurang.addr.front.url=localhost:3000
 ```
 
 Move to backend directory:
